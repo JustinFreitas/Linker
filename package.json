@@ -1,0 +1,12 @@
+{
+  "name": "fg-linker-tests",
+  "version": "1.0.0",
+  "description": "Unit tests for Fantasy Grounds Linker extension using wasmoon",
+  "main": "test/run_tests.js",
+  "scripts": {
+    "test": "node test/run_tests.js"
+  },
+  "dependencies": {
+    "wasmoon": "^1.16.0"
+  }
+}
